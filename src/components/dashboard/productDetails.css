@@ -1,0 +1,129 @@
+/* .container{
+    display:  flex;
+    flex-direction: column;
+    position: relative;
+    }
+    .title{
+        display:  flex;
+        position: absolute;
+        left: 430px;
+        top: 35px;
+    }
+    .description{
+        position: absolute;
+        left: 430px;
+        top: 75px;
+    }
+    .brand{
+        position: absolute;
+        left: 430px;
+        top: 130px;
+    }
+    .price{
+        position: absolute;
+        left: 430px;
+        top: 170px;
+    }
+    .discount{
+        position: absolute;
+        left: 600px;
+        top: 170px;
+    }
+    .rating{
+        position: absolute;
+        left: 430px;
+        top: 200px;
+    }
+    .category{
+        position: absolute;
+        left: 430px;
+        top: 230px;
+    
+    }
+    .btn1{
+        background-color: black;
+        color: white;
+        border-radius: 15%;
+        padding: 5px;
+        position: absolute;
+        left: 430px;
+        top: 270px;
+    }
+    .btn2{
+        background-color: rgba(224, 125, 59, 0.856);
+        color: white;
+        position: absolute;
+        left: 500px;
+        top: 270px;
+        border-radius: 15%;
+        padding: 5px;
+      
+    }
+    @media screen and  (max-width: 800px) { 
+    .container{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+    }
+    .img{
+        width: 180px;
+    }
+    .title{
+        display:  flex;
+        position: absolute;
+        left: 100px;
+        top: 340px;
+    }
+    .description{
+        position: absolute;
+        left: 20px;
+        top: 370px;
+    }
+    .brand{
+        position: absolute;
+        left: 100px;
+        top: 420px;
+    }
+    .price{
+        position: absolute;
+        left: 100px;
+        top: 450px;
+       
+    }
+    .discount{
+        position: absolute;
+        left: 100px;
+        top: 480px;
+    }
+    .rating{
+        position: absolute;
+        left: 100px;
+        top: 510px;
+    }
+    .category{
+        position: absolute;
+        left: 100px;
+        top: 540px;
+    
+    }
+    .btn1{
+        background-color: black;
+        color: white;
+        border-radius: 15%;
+        padding: 5px;
+        position: absolute;
+        left: 40px;
+        top: 590px;
+    }
+    .btn2{
+        background-color: rgba(224, 125, 59, 0.856);
+        color: white;
+        position: absolute;
+        left: 200px;
+        top: 590px;
+        border-radius: 15%;
+        padding: 5px;
+      
+    }
+    }
+     */

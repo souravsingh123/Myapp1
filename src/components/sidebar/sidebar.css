@@ -1,0 +1,36 @@
+.sidebar{
+    background-color: black;
+    color: white;
+    width: 187px;
+    height: 360em;
+   /* position: fixed; */
+}
+.sidebar-items{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+}
+.h2{
+    position: fixed;
+    text-align: center;
+}
+.logout{
+    position: absolute;
+    top: 540px;
+    cursor: pointer;
+}
+.home{
+    cursor: pointer;
+}
+.profile{
+    cursor: pointer;
+}
+.product{
+    cursor: pointer;
+}
+.list{
+    cursor: pointer;
+}
+.report{
+    cursor: pointer;
+}
